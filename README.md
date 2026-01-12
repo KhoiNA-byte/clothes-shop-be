@@ -9,15 +9,3 @@ Backend:
     - Spring Boot (Java)
 
     - MySQL Database
-
-Key Features:
-
-    - JWT-based authentication and authorization
-
-    - RESTful API design
-
-    - Database migration with Hibernate
-
-    - Input validation and error handling
-
-    - Secure password storage with BCrypt
