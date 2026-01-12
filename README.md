@@ -6,7 +6,7 @@ A comprehensive backend e-commerce API for an online clothing store built with S
 
 Backend:
 
-    - Spring Boot
+    - Spring Boot (Java)
 
     - MySQL Database
 
